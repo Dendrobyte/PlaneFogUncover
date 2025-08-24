@@ -414,7 +414,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9339a9ceb41ca41c080da0ef08b2f0c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  planePrefab: {fileID: 977707136896755126, guid: 8f83f10b6f9ae481b8d0801679f00650, type: 3}
+  planePrefab: {fileID: 8023442939103420873, guid: 8f83f10b6f9ae481b8d0801679f00650, type: 3}
+  cloudPrefab: {fileID: 5350363980091579250, guid: 6176d233011264ed08de60807eda1dca, type: 3}
+  groundTilemap: {fileID: 1791532850}
 --- !u!4 &1746618958
 Transform:
   m_ObjectHideFlags: 0
